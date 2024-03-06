@@ -10,15 +10,15 @@ To use this program, create an instance of the Student class by passing the stud
 
 ## Example
 
-s1 = Student("Nibedita", [97, 98, 95])
-print(f"{s1.name}'s marks = {s1.marks}")
-avg = s1.calc_avg()
-print(f"So, her average score = {avg}")
+    s1 = Student("Nibedita", [97, 98, 95])
+    print(f"{s1.name}'s marks = {s1.marks}")
+    avg = s1.calc_avg()
+    print(f"So, her average score = {avg}")
 
 
 ## Output:
-Nibedita's marks = [97, 98, 95]
-So, her average score = 96.66666666666667
+    Nibedita's marks = [97, 98, 95]
+    So, her average score = 96.66666666666667
 
 
 ## Requirements
